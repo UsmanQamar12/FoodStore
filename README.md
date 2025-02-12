@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+The Food Store Application is a web/mobile-based platform that allows users to browse, order, and manage food items conveniently. Built using  technologies, e.g., React, Node.js, MongoDB, etc.], this application provides a seamless online food shopping experience with a user-friendly interface, secure payment options, and real-time order tracking.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
